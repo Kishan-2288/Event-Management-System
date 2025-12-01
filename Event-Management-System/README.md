@@ -62,9 +62,6 @@ Email / Text message notification.
 
 ## 6. Source:
 
-- Adapted from:
-
-UDEMY: Java Programming Bootcamp, Develop 20 Real World Projects, Java Web Application Development Course, 
 
 Learn To Build Projects Using JSP, JDBC, Servlets, Swing, Spring Boot, Hibernate
 
